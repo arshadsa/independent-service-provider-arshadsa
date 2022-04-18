@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Full Day Package",
+        "price": "£1600",
+        "description": "My Full Day wedding package includes 8-12 hours of coverage, 500-800 edited hi-res digital image files on USB. With the right to print and distribute, as well as an online gallery with print purchase options. All this comes in a superb Wooden Presentation Box with a selection of 7×5 prints. £1600",
+        "img": "https://i.ibb.co/Lt0nNSm/wd-service-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Half Day Package",
+        "price": "£850",
+        "description": "Eloping or not looking for full day coverage?……not a problem, half days are £850 and include much of the Full Day package, please get in touch with all your awesome details and I can provide more information. Please note that half days are usually for off peak times.",
+        "img": "https://i.ibb.co/Fq9VW0t/wd-service-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Engagement Photoshoots",
+        "price": "£300",
+        "description": "I also offer engagement photoshoots, where I can be a bit more creative in a more relaxed setting. I’ll take 1-2 hours in a location of your choosing to get you used to the camera for your big day. This can be a great way to build a connection with me and ensure your wedding photos go off without a hitch.  £300 ",
+        "img": "https://i.ibb.co/52hpMFk/wd-service-3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Second photographer",
+        "price": "£300",
+        "description": "I also offer engagement photoshoots, where I can be a bit more creative in a more relaxed setting. I’ll take 1-2 hours in a location of your choosing to get you used to the camera for your big day. This can be a great way to build a connection with me and ensure your wedding photos go off without a hitch.  £300",
+        "img": "https://i.ibb.co/8gRmyd0/wd-service-5.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Engagement Photoshoots",
+        "price": "£300",
+        "description": "I also offer engagement photoshoots, where I can be a bit more creative in a more relaxed setting. I’ll take 1-2 hours in a location of your choosing to get you used to the camera for your big day. This can be a great way to build a connection with me and ensure your wedding photos go off without a hitch.  £300",
+        "img": "https://i.ibb.co/r4xHqbw/wd-service-4.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Half Day Package",
+        "price": "300",
+        "description": "Eloping or not looking for full day coverage?……not a problem, half days are £850 and include much of the Full Day package, please get in touch with all your awesome details and I can provide more information. Please note that half days are usually for off peak times.",
+        "img": "https://i.ibb.co/LNKX5rK/wd-service-8.jpg"
+    }
+]

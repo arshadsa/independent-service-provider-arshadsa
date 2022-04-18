@@ -1,6 +1,6 @@
 # Arshad's Wedding Photography
 
-Link to my website [Arshad's Wedding Photography](https://independent-service-provider.netlify.app/).
+Link to my website [Arshad's Wedding Photography](https://github.com/facebook/create-react-app).
 
 website's different features and functionality
 * This website is fully responsive.

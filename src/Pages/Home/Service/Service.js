@@ -10,12 +10,12 @@ const Service = ({service}) => {
         navigate(`/service/${id}`);
     }
     return (
-        <div className='service'>
+        <div className='service position-relative'>
             <img className='w-100' src={img} alt="" />
             <h2>{name}</h2>
             <p>Price: {price}</p>
             <p><small>{description}</small></p>
-            <button onClick={() => navigateToServiceDetail(id)} className='btn btn-primary'>Book: {name}</button>
+            <button onClick={() => navigateToServiceDetail(id)} className='btn btn-secondary'>Book: {name}</button>
         </div>
     );
 };
